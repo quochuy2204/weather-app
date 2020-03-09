@@ -1,5 +1,7 @@
 # weather-app
  my first JS/React application for learning APIs usage
+ 
+ https://quochuy2204-weatherapp.netlify.com/
 
 
 ## Available Scripts
